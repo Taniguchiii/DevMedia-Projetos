@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    background-color: #F5F5F5;
+    font-family: Tahoma;
+}
+
+header {
+    width: 200px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+}
+
+a {
+    color: #542f0c;
+}
+
+.Pri-seçao {
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    width: 50%;
+    border-top: 2px solid #de8e37;
+    border-bottom: 2px solid #de8e37;
+}
+
+.Produtos {
+    width: 600px;
+    padding-bottom: 30px;
+}
+
+.Seg-seçao,
+.Ter-seçao {
+    text-align: center;
+    margin: auto;
+    width: 600px;
+    color: #fff;
+    background-color: #de8e37;
+}
+
+.paes,
+.bolos {
+    width: 400px;
+}
+
+.Final-seçao {
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}

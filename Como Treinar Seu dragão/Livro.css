@@ -1,0 +1,46 @@
+body {
+    background-color: #F5F5F5;
+    text-align: center;
+}
+
+div {
+    border: 1px solid #D5D5D5;
+    padding: 30px;
+    width: 960px;
+    margin: auto;
+}
+
+.Livro {
+    width: 250px;
+}
+
+.Autora {
+    width: 200px;
+}
+
+h1,
+h2 {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+p {
+    font-family: 'Tahoma', sans-serif;
+    font-size: 15px;
+    padding: 15px 30px;
+
+}
+
+a {
+    font-size: 15px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #49B970;
+    color: #F5F5F5;
+}
+
+span {
+    font-weight: bold;
+}
