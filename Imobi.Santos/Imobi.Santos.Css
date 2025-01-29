@@ -24,4 +24,56 @@ a {
 .Banner {
     display: flex;
     margin: auto;
+    margin-bottom: 40px;
+}
+
+h1,
+h3 {
+    text-align: center;
+    color: #1d1d1d;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.Azul {
+    color: #1c81c0;
+    text-align: center;
+}
+
+.Imovel,
+.Corretores,
+iframe {
+    display: flex;
+    margin: auto;
+    width: 40%;
+}
+
+p {
+    font-size: 20px;
+    margin: 20px auto;
+    text-align: center;
+    width: 40%;
+}
+
+ul,
+dl {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+span {
+    color: #1c81c0;
+    font-weight: bold;
+}
+
+.Amarelo {
+    color: yellow;
+    font-weight: bold;
+}
+
+.Fundo {
+    background-color: #1c81c0;
 }

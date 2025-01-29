@@ -1,0 +1,18 @@
+body {
+    margin: 0 20%;
+    background-color: yellow;
+    font-family: sans-serif;
+}
+
+header div {
+    margin: auto;
+    font-size: 22px;
+    padding: 20px 0;
+    color: #fff;
+    background-color: #4710c1;
+}
+
+.Tudo{
+    margin: 0 auto;
+    background-color: #F5F5F5;
+}
