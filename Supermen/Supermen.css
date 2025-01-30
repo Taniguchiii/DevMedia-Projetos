@@ -1,18 +1,66 @@
 body {
-    margin: 0 20%;
-    background-color: yellow;
+    margin: 0 auto;
     font-family: sans-serif;
 }
 
-header div {
-    margin: auto;
+header {
+    width: 100%;
     font-size: 22px;
     padding: 20px 0;
     color: #fff;
     background-color: #4710c1;
 }
 
-.Tudo{
-    margin: 0 auto;
-    background-color: #F5F5F5;
+nav {
+    margin: 0% 30px;
+}
+
+nav a {
+    background-color: white;
+    font-weight: bold;
+    text-decoration: none;
+    color: #4710c1;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 0px 5px;
+}
+
+.Capa {
+    width: 100vw;
+}
+
+.Tudo p {
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.Tudo {
+    margin: 30px;
+    text-align: center;
+}
+
+.Logo {
+    width: 50%;
+}
+
+.Galeria {
+    display: flex;
+    overflow-x: scroll;
+    margin: 0 20px;
+}
+
+.Sombra {
+    width: 300px;
+    margin: 10px;
+    box-shadow: 10px 10px 10px #939393;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #4710c1;
+    color: white;
+    padding: 10px 0;
 }
