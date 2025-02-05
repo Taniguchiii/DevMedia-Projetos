@@ -57,11 +57,18 @@ p {
     width: 40%;
 }
 
-ul,
-dl {
+.list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 20px;
     line-height: 30px;
+}
+
+dl {
     text-align: center;
+    font-size: 20px;
+    line-height: 30px;
 }
 
 span {

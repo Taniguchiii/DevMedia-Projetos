@@ -1,4 +1,117 @@
-.Redes{
+body {
+    font-family: sans-serif;
+
+}
+
+header {
+    height: 800px;
+    background: url("img/banner-topo.jpg") center/cover no-repeat;
+    background-size: 200vh;
+}
+
+h1 {
+    font-size: 40px;
+    color: #3c184e;
+    margin: 50px 0 0 10%;
+}
+
+.inicio {
+    color: #3c184e;
+    margin-top: 0%;
+    margin-left: 11%;
+}
+
+.Pata {
+    width: 40px;
+}
+
+.Banner {
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+    width: 60%;
+    height: 400px;
+    color: #3c184e;
+    background-color: #ffffffc4;
+}
+
+.Banner a {
+    color: #fff;
+    background-color: #3c184e;
+    border-radius: 10px;
+    font-size: 30px;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.Banner img {
+    width: 30px;
+}
+
+.SubTitulo {
+    margin: 50px auto 50px auto;
+    text-align: center;
+    font-size: 40px;
+    color: #3c184e;
+}
+
+.Lista {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    gap: 30px;
+    font-size: 20px;
+    color: #3c184e;
+}
+
+span {
+    font-weight: bold;
+}
+
+.Secao-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Sombra {
+    margin-top: 30px;
     width: 10%;
-    height: 10%;
+    padding: 3px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #0000005c;
+}
+
+.Secao-redes {
+    text-align: center;
+    font-size: 25px;
+    margin: 50px auto 50px auto;
+    padding: 50px;
+    color: #fff;
+    background-color: #3c184e;
+}
+
+.Redes {
+    width: 4%;
+    padding: 30px;
+}
+
+.Final {
+    text-align: center;
+    font-size: 25px;
+    color: #3c184e;
+}
+
+iframe {
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    background-color: #3c184e;
+    color: #fff;
 }

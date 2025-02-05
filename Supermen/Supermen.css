@@ -1,8 +1,11 @@
 body {
     margin: 0 auto;
     font-family: sans-serif;
+    background-color: black;
 }
-
+main{
+    background-color: #fff;
+}
 header {
     width: 100%;
     font-size: 22px;
