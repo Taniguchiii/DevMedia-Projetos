@@ -1,6 +1,5 @@
 body {
     font-family: sans-serif;
-
 }
 
 header {
@@ -97,6 +96,15 @@ span {
 .Redes {
     width: 4%;
     padding: 30px;
+}
+
+.Parceiros {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, auto);
+    justify-items: center;
+    width: 50%;
+    margin: auto;
 }
 
 .Final {
